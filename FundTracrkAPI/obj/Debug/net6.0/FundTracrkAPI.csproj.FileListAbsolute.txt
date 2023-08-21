@@ -98,3 +98,8 @@ D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\runtimes\win-x64\na
 D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
 D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
 D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\repositories\FundTracrkAPI\FundTracrkAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
